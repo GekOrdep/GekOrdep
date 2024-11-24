@@ -103,7 +103,7 @@
 <h2>Contact me</h2>
 <p>So, let's collaborate! Here's my contact.</p>
 <div align="center">
-	<a href="https://steamcommunity.com/id/pehdro_/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"></a>
+	<a href="https://steamcommunity.com/id/GekOrdep/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"></a>
 	<a href="https://www.linkedin.com/in/pedro-víctor-rocha-camargo-38424715b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"></a>
 	<a href="mailto:gekordep@gmai.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"></a>
 </div>
